@@ -13,6 +13,7 @@ For details, please ref [Task](https://docs.qq.com/doc/DTlJGVkVua2laZWtt?&u=0b0a
 
 # Member Projects
 - [XiaoyuXiao1998: UE4FreeFallGPU](https://github.com/XiaoyuXiao1998/UE4FreeFallGPU)
+- [YiRenchao: Taichi_Demo](https://github.com/ywsimon/Taichi_demo)
 
 # References
 - [Taichi export cuda](https://github.com/taichi-dev/taichi-aot-demo/tree/master/mpm88_desktop)
