@@ -15,7 +15,7 @@ Here is our [Final Project](https://docs.qq.com/doc/DTkJCTFVTdWR2VVFV), enjoy it
 # Member Projects
 - [XiaoyuXiao1998: UE4FreeFallGPU](https://github.com/XiaoyuXiao1998/UE4FreeFallGPU)
 - [YiRenchao: Taichi_Demo](https://github.com/ywsimon/Taichi_demo)
-- [DioYF: UE5_using_taichi_cuda_CS](https://github.com/DIOYF/UE5Demo_usingTaichiCudaCS)
+- [DIOYF: UE5_using_taichi_cuda_CS](https://github.com/DIOYF/UE5Demo_usingTaichiCudaCS)
 
 # References
 - [Taichi export cuda](https://github.com/taichi-dev/taichi-aot-demo/tree/master/mpm88_desktop)
