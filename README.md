@@ -1,6 +1,7 @@
 # Goal
 We are aimed to integrate [Taichi](https://github.com/taichi-dev/taichi) to [Unreal Engine](https://github.com/EpicGames/UnrealEngine). 
-For details, please ref [Task](https://docs.qq.com/doc/DTlJGVkVua2laZWtt?&u=0b0a9edce3c044e9a0b46224e3c1194b)
+If you are new to UE and Taichi, start with [Learning Task](https://docs.qq.com/doc/DTlJGVkVua2laZWtt?&u=0b0a9edce3c044e9a0b46224e3c1194b)(If you are familiar with both, just skip it).   
+Here is our [Final Project](https://docs.qq.com/doc/DTkJCTFVTdWR2VVFV), enjoy it.
 
 # Q&A
 - Encourage you ask any question by submmitting issues
